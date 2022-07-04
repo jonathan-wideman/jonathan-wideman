@@ -6,8 +6,7 @@ Web Developer / Software Engineer
 
 ## Creates
 
-- Webapps
-- SPA's
+- Webapps / SPA's / PWA's
 - Websites
 - Games
 
